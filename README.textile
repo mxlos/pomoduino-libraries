@@ -1,0 +1,9 @@
+h1. Librerias para "Pomoduino":https://github.com/mxlOS/pomoduino
+
+Por grupo Mexicali Open Source (mxlOS)!
+
+Pomoduino es un proyecto para crear un Pomodoro timer con Arduino.  En este repositorio es donde se guardan las librerias requeridas.
+
+h2. Canales de comunicacion
+
+* "Discusion en Google Groups (principal)":https://groups.google.com/forum/?fromgroups#!topic/mxl-opensource/FWfU0E8KQvU
